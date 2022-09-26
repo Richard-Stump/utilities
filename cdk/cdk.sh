@@ -1,9 +1,10 @@
-
-
 # this is a special function that can change the directory of bash given a
 # keyword. This allows the user to create a list of keyword/path pairs, and 
 # then use those keywords to change the directory rather than typing out the
 # complete path
+#
+# To use this, add a line to your .bashrc that sources this file, and update
+# the variable "keywordFile" to match where your keywords.txt is
 function cdk { 
     #change this to match your keywords file
     keywordFile=~/bashrc_scripts/keywords.txt
