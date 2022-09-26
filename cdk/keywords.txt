@@ -10,21 +10,5 @@
 # and non-whitespace lines for the help screen
 
 # General directories
-school      "/mnt/d/stump/Documents/School/"
-cursem      "/mnt/d/stump/Documents/School/Fall 2022/"
-sigbots     "/mnt/d/stump/Documents/sigbots/"
-win         "/mnt/d/stump/"
-documents   "/mnt/d/stump/Documents"
-
-# Current semester classes
-cs407       "/mnt/d/stump/Documents/Fall\ 2022/cs407/"
-cs490       "/mnt/d/stump/Documents/Fall\ 2022/cs490/"
-cs352       "/mnt/d/stump/Documents/Fall\ 2022/cs352/"
-cs314       "/mnt/d/stump/Documents/Fall\ 2022/cs314/"
-cs535       "/mnt/d/stump/Documents/Fall\ 2022/cs535/"
-
-# Sigbots projects
-pros        "/mnt/d/stump/Documents/sigbots/pros/"
-proscli     "/mnt/d/stump/Documents/sigbots/pros-cli/"
-prosvsc     "/mnt/d/stump/Documents/sigbots/pros-vsc/"
-
+key1        "/homes/users/me/key1/"
+shortName   "/homes/users/me/nest1/nest2/nest3/nest4"   
